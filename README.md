@@ -1,11 +1,6 @@
 #README
 
-Copied all the data from the cascade stylesheets and set up all the views up to
+Completed chapter 8, added caching and currency using number_to_currency function 
+this function allows to setup currency globally
 
-page 114(135/467)
-
-Need to remove caching this is done by doing : rails dev:cache
-
-that is the last part that was analyzed
-
-
+Last page is 117(138/ 467)
