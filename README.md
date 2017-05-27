@@ -1,24 +1,11 @@
-# README
+#README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Copied all the data from the cascade stylesheets and set up all the views up to
 
-Things you may want to cover:
+page 114(135/467)
 
-* Ruby version
+Need to remove caching this is done by doing : rails dev:cache
 
-* System dependencies
+that is the last part that was analyzed
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

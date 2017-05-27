@@ -8,9 +8,7 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
        description: 'test description',
        image_url: 'test.jpg',
        price: 19.95
-
-
-    }
+       }
   end
 
   test "should get index" do
