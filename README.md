@@ -1,6 +1,9 @@
 #README
 
-Completed chapter 8, added caching and currency using number_to_currency function 
-this function allows to setup currency globally
+Finished Chapter 9, starting chapter 10
 
-Last page is 117(138/ 467)
+There is an explanation on the controller on how to associate the line items with the cart
+and the products. There is a need to improve the understanding of this however
+
+I will finish the book.
+
